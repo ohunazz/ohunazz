@@ -1,11 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Okhunjon Azzamkulov</h1>
 <h3 align="center">An enthusiastic full-stack developer based in the vibrant city of New York.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohunazz&label=Profile%20views&color=0e75b6&style=flat" alt="ohunazz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohunazz" alt="ohunazz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@okhun_john" target="blank"><img src="https://img.shields.io/twitter/follow/@okhun_john?logo=twitter&style=for-the-badge" alt="@okhun_john" /></a> </p>
 
