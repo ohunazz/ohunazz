@@ -2,11 +2,6 @@
 <h3 align="center">An enthusiastic full-stack developer based in the vibrant city of New York.</h3>
 
 
-
-
-<p align="left"> <a href="https://twitter.com/@okhun_john" target="blank"><img src="https://img.shields.io/twitter/follow/@okhun_john?logo=twitter&style=for-the-badge" alt="@okhun_john" /></a> </p>
-<p align="left"> <a [href=https://www.linkedin.com/in/okhunjon-azzamkulov-579621277] /></a> </p>
-
 - 🔭 I’m currently working on **Projectify App**
 
 - 🌱 I’m currently learning **Typescript, React**
